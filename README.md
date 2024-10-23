@@ -54,7 +54,3 @@ We keep track of the number of hours each group member works towards the fulfill
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
-
----
-
-Feel free to customize this further based on your group's work and project progress!
