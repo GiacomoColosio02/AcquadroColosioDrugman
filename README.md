@@ -8,11 +8,6 @@ The project is divided into two main deliverables:
 1. **Requirement Analysis and Specification Document (RASD)**
 2. **Design Document (DD)**
 
-## Project Schedule
-- **RASD submission deadline**: 22/12/2024
-- **DD submission deadline**: 07/01/2025
-- **Final presentation**: TBA
-
 ## Repository Structure
 TBD
 
