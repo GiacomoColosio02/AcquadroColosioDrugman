@@ -18,7 +18,7 @@ The project is divided into two main deliverables:
 
 ## Project Part 1 : RASD (Requirement Analysis and Specification Document)
 
-#### What is the RASD DOCUMENT: A Brief Overview
+#### 1.1 What is the RASD DOCUMENT: A Brief Overview
 **What is the Purpose of the RASD?**
 
 The Requirements Analysis and Specification Document (RASD) serves as a critical resource for managing and communicating the system's requirements. Its main purposes include:
@@ -36,8 +36,6 @@ The Requirements Analysis and Specification Document (RASD) serves as a critical
    - **Change Control:** Managing evolving requirements and aligning system updates with the original design.
 
 A well-crafted RASD is clear, precise, and structured to cater to both technical and non-technical readers.
-
----
 
 **Who is the Audience of the RASD?**
 
@@ -61,8 +59,6 @@ The RASD addresses the needs of diverse stakeholders, including:
 6. **External Stakeholders**  
    Third parties or teams working on related projects rely on the RASD for context and integration needs.
 
----
-
 **How Should We Write the RASD?**
 
 The RASD must be:
@@ -80,16 +76,17 @@ The RASD must be:
 
 By ensuring clarity and adaptability, the RASD serves as a reliable reference for all stages of the project and all involved stakeholders.
 
+---
 
 
 
 
 
 
+---
 
-
-
-## Hours Tracking
+#### Hours Tracking
+Single Activity Table
 
 | Date       | Hours | Activity              | Who           |
 |------------|-------|-----------------------|---------------|
@@ -97,6 +94,14 @@ By ensuring clarity and adaptability, the RASD serves as a reliable reference fo
 |            |       |                       |               |
 |            |       |                       |               |
 |            |       |                       |               |
+
+Summary Activity  Table
+| Who           | Total Hours |
+|---------------|-------------|
+| Giacomo Colosio |         |
+| Tito Drugman  |            |
+| Patrizio Acquadro |        |
+
 
 
 ## Submission Process
