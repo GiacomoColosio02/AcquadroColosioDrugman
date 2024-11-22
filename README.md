@@ -79,7 +79,7 @@ The RASD must be:
 By ensuring clarity and adaptability, the RASD serves as a reliable reference for all stages of the project and all involved stakeholders.
 
 
-###1.2  Hours Tracking
+### 1.2  Hours Tracking
 Single Activity Table
 
 | Date       | Hours | Activity              | Who           |
