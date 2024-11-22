@@ -18,7 +18,7 @@ The project is divided into two main deliverables:
 
 ## Project Part 1 : RASD (Requirement Analysis and Specification Document)
 
-#### 1.1 What is the RASD DOCUMENT: A Brief Overview
+### 1.1 What is the RASD DOCUMENT: A Brief Overview
 **1.1.1.What is the Purpose of the RASD?**
 
 The Requirements Analysis and Specification Document (RASD) serves as a critical resource for managing and communicating the system's requirements. Its main purposes include:
@@ -78,16 +78,8 @@ The RASD must be:
 
 By ensuring clarity and adaptability, the RASD serves as a reliable reference for all stages of the project and all involved stakeholders.
 
----
 
-
-
-
-
-
----
-
-#### Hours Tracking
+###1.2  Hours Tracking
 Single Activity Table
 
 | Date       | Hours | Activity              | Who           |
