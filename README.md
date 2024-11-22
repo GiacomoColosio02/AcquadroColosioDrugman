@@ -2,7 +2,7 @@
 This repository contains the project developed for the **Software Engineering 2** course (A.Y. 2024-2025). The Group Members are: 
 - **ACQUADRO PATRIZIO**
 - **COLOSIO GIACOMO**
-- **TITO NICOLA DRUGMAN TARANTOLA**
+- **TITO NICOLA DRUGMAN**
 
 
 The project is divided into two main deliverables:
