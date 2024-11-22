@@ -23,19 +23,14 @@ Contains all materials related to stakeholder, domain analysis, and the study of
 
 #### **2.  RASD_DOCUMENTS/RASD_Drafts**
 Combines the modeling and validation processes, holding structured models of requirements and documentation of the validation process. This includes:
-- Natural language descriptions and formal requirement models
-- Supporting diagrams and visualizations
-- Records of inconsistencies and how they were resolved
-- Finalized validated models
+- ...
 
 #### **3. RASD_DOCUMENTS/RASD_Final_Version**
 Contains the final version of the RASD, along with any supplementary materials. The finalized document is structured to clearly outline:
-- Requirements
-- Domain assumptions
-- System constraints
+- ...
 ---
 Than in order to track progress in a structured and iterative way, we have included the following folder: 
-### **4. Team_Progress_Tracking**
+#### **4. Team_Progress_Tracking**
 It contains:
 - A **link to the Google document** with the daily to-do list for the project, which also includes detailed logs of tasks completed each day.
 - A **link to the Google document** with a records of time spent on each task, ensuring transparency and accountability.
