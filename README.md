@@ -19,7 +19,7 @@ The project is divided into two main deliverables:
 ## Project Part 1 : RASD (Requirement Analysis and Specification Document)
 
 #### 1.1 What is the RASD DOCUMENT: A Brief Overview
-**What is the Purpose of the RASD?**
+**1.1.1.What is the Purpose of the RASD?**
 
 The Requirements Analysis and Specification Document (RASD) serves as a critical resource for managing and communicating the system's requirements. Its main purposes include:
 
@@ -37,7 +37,7 @@ The Requirements Analysis and Specification Document (RASD) serves as a critical
 
 A well-crafted RASD is clear, precise, and structured to cater to both technical and non-technical readers.
 
-**Who is the Audience of the RASD?**
+**1.1.2 Who is the Audience of the RASD?**
 
 The RASD addresses the needs of diverse stakeholders, including:
 
@@ -59,7 +59,9 @@ The RASD addresses the needs of diverse stakeholders, including:
 6. **External Stakeholders**  
    Third parties or teams working on related projects rely on the RASD for context and integration needs.
 
-**How Should We Write the RASD?**
+   
+
+**1.1.3 How Should We Write the RASD?**
 
 The RASD must be:
 
