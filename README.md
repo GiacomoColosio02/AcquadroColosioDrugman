@@ -32,12 +32,12 @@ This folder contains all materials related to stakeholder analysis, domain analy
 
 
 
-- **Folder 2: Analysis of Stakeholders**
+- **Folder 2: Research_About_Documents (Analysis of Stakeholders)**
   - Study 1: National survey of college internships (nsci) 2021 report
   - Study 2: Tougher than ever to secure place on sought after internships, 2024
   - ...
 
-- **Folder 3: Analysis of Existing Technologies and Potential Competitors**
+- **Folder 3:Research_About_Existing_Software (Analysis of Existing Technologies and Potential Competitors)**
   - **Subfolder 1:** LinkedIn
   - **Subfolder 2:** Datapizza
   - **Subfolder 3:** Other analyses
