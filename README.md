@@ -65,6 +65,14 @@ This folder is designed to track progress in a structured and iterative way. It 
 
 - A **link to the Google document** with the daily to-do list for the project, including detailed logs of tasks completed each day.
 - A **link to the Google document** recording the time spent on each task, ensuring transparency and accountability.
+  
+
+## **4. Theoretical Documentation/**
+This folder is used to contain all theoretical knowledge related to the project. Specifically, it includes:
+
+- A course textbook built lesson by lesson
+- An IEEE document containing the structure of the RASD
+- A custom document created by the team on how to construct a RASD
 
 
 
