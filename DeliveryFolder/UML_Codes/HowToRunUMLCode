@@ -1,0 +1,16 @@
+How to Run the UML Code
+
+1. Use a UML Coding Platform: To generate the UML diagrams, utilize a platform or tool that supports UML syntax. Recommended options include:
+   - PlantUML
+   - Lucidchart
+   - Visual Paradigm
+   - PlantUML Online Editor
+   - IDE Plugins (e.g., IntelliJ IDEA, VSCode)
+
+2. Run the Code: Write and execute the UML code using the selected platform. Ensure the syntax matches the UML tool's requirements.
+
+3. Export to SVG Format: After execution, export the generated diagram to SVG (Scalable Vector Graphics) format. SVG provides a high-quality, scalable visualization of the diagram.
+
+4. Visualize the Diagram: Open the SVG file in your preferred viewer (e.g., a web browser or an image viewer) to analyze the visual representation of the UML code.
+
+By following these steps, you can effectively generate and visualize the UML diagrams from the provided code.
