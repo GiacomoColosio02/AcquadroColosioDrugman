@@ -1,4 +1,6 @@
 # Students&Companies Platform 
+![S_(1) 1](https://github.com/user-attachments/assets/44f049ca-be35-4686-b7c1-43c8ea70857c)
+
 This repository contains the project developed for the **Software Engineering 2** course (A.Y. 2024-2025). The Group Members are: 
 - **ACQUADRO PATRIZIO**
 - **COLOSIO GIACOMO**
