@@ -13,6 +13,10 @@ The project is divided into two main deliverables:
 1. **Requirement Analysis and Specification Document (RASD)**
 2. **Design Document (DD)**
 
+---
+---
+---
+
 # PROJECT PART 1: RASD
 ## Repository Structure
 ### A] RASD (Requirement Analysis and Specification Document)
@@ -58,8 +62,6 @@ This folder contains all materials related to stakeholder analysis, domain analy
 - **Subfolder 2:** Datapizza
 - **Subfolder 3:** Other analyses
 
----
-
 ## **3. RASD_DOCUMENTS/**
 
 This folder includes all materials related to the Requirements Analysis and Specification Document (RASD), structured into two subfolders:
@@ -73,7 +75,6 @@ This folder includes all materials related to the Requirements Analysis and Spec
 - Contains the final version of the RASD, along with any supplementary materials. The finalized document is structured to clearly outline:
   - Final PDF version of the RASD document
 
----
 
 ## **4. Team_Progress_Tracking/**
 
@@ -81,7 +82,6 @@ This folder is designed to track progress in a structured and iterative way. It 
 - A **link to the Google document** with the daily to-do list for the project, including detailed logs of tasks completed each day.
 - A **link to the Google document** recording the time spent on each task, ensuring transparency and accountability.
 
----
 
 ## **5. Theoretical Documentation/**
 
@@ -89,6 +89,10 @@ This folder is used to contain all theoretical knowledge related to the project.
 - A course textbook built lesson by lesson
 - An IEEE document containing the structure of the RASD
 - A custom document created by the team on how to construct a RASD
+
+---
+---
+---
 
 # PROJECT PART 2: DD (Design Document)
 ### B] DD (Design Document)
