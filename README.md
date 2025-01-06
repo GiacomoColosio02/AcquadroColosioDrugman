@@ -14,6 +14,8 @@ The project is divided into two main deliverables:
 2. **Design Document (DD)**
 
 ---
+---
+---
 
 ## Project Part 1: RASD
 
@@ -54,6 +56,8 @@ To ensure a logical and organized approach, the repository is divided into dedic
 ##### 5. Theoretical Documentation/
 - Includes course textbooks, IEEE document structures, and custom documents on constructing a RASD.
 
+---
+---
 ---
 
 ## Project Part 2: DD (Design Document)
