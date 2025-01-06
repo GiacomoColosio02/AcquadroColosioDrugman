@@ -65,7 +65,7 @@ This section focuses on the documentation and organization of the system design 
 - Contains all documents related to the architectural design of the system.
 - **System_Overview.pdf**
 - **Component_Diagrams/**
-- **Deployment_View**
+- **Deployment_View/**
 - **Sequence_Diagrams/**
 - **Implementation_Integration_Test_Diagrams/**
 
