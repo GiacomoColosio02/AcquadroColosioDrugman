@@ -90,12 +90,28 @@ This folder is used to contain all theoretical knowledge related to the project.
 - An IEEE document containing the structure of the RASD
 - A custom document created by the team on how to construct a RASD
 
+# PROJECT PART 2: DD (Design Document)
 ### B] DD (Design Document)
-To Be Defined
+This section of the Design Document focuses on the documentation and organization of the system design materials. The goal is to maintain a clear and accessible repository structure.
 
+### **1. Architectural_Design_Folder/**
+This folder contains all documents related to the architectural design of the system, including high-level diagrams and specific technical details.
+- **System_Overview.pdf**
+- **Component_Diagrams/**
+- **Sequence_Diagrams/**
+- **Implementation_Integration_Test_Diagrams/**
 
+### **2. Interface_Design_Folder/**
+This folder is dedicated to the design of user interfaces and APIs. It contains mockups.
+- **UI_Mockups/**
 
+### **3. Data_Design_Folder/**
+This folder collects documents that describe the structure and management of data, including database schemas.
+- **Database_Schema.pdf**
 
+### **4. Deployment_Strategy_Folder/**
+Strategies for implementing and maintaining the system in a production environment.
+- **Deployment_Diagrams/**
 
 ## License
 
